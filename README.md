@@ -17,3 +17,5 @@ Parmi les notions abordées, on compte notamment:
 From Self-Attention to Markov Models: Unveiling the Dynamics of Generative Transformers.
 M. Emrullah Ildiz, Yixiao Huang, Yingcong Li, Ankit Singh Rawat, Samet Oymak.  
 Lien de l'article utilisé pour l'étude: https://arxiv.org/abs/2402.13512
+
+🎓 Projet réalisé dans le cadre du Master MMAA – Université Savoie Mont Blanc
